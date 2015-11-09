@@ -16,7 +16,7 @@ public class Robo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // https://github.com/qqbz/robo2.git
+        // https://github.com/qqbz/robo1.git
     }
     
 }
